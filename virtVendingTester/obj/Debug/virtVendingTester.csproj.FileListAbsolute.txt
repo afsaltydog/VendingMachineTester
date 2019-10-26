@@ -1,0 +1,6 @@
+C:\Users\aferg\Documents\Visual Studio 2013\virtVendingTester\bin\Debug\virtVendingTester.exe.config
+C:\Users\aferg\Documents\Visual Studio 2013\virtVendingTester\bin\Debug\virtVendingTester.exe
+C:\Users\aferg\Documents\Visual Studio 2013\virtVendingTester\bin\Debug\virtVendingTester.pdb
+C:\Users\aferg\Documents\Visual Studio 2013\virtVendingTester\obj\Debug\virtVendingTester.csprojResolveAssemblyReference.cache
+C:\Users\aferg\Documents\Visual Studio 2013\virtVendingTester\obj\Debug\virtVendingTester.exe
+C:\Users\aferg\Documents\Visual Studio 2013\virtVendingTester\obj\Debug\virtVendingTester.pdb
